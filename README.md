@@ -1,4 +1,4 @@
-# MERN stack with Vue3(Frontend)
+# Frontend project with Vue3 and TypeScript
 
 ## Introduction:
 
